@@ -1,6 +1,7 @@
-#ArInt
+# ArInt
 
-(F. Pastor, E. Arizu. J. Marimon and E. Guaus)<br>
-ArInt is a musical dialogue between a performer and an algorithm based on AI.<br>
+*(F. Pastor, E. Arizu. J. Marimon and E. Guaus)*
 
-+ info @ [http://sheepdog.es/portfolio/arint"]
+ArInt is a musical dialogue between a performer and an algorithm based on AI.
+
+more info: [http://sheepdog.es/portfolio/arint"]
